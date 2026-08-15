@@ -18,6 +18,10 @@ The dashboard helps analyze revenue performance, order trends, customer activity
 - Interactive Visualizations
 - Slicers & Filters
 
+## 📸 Dashboard Preview
+
+![Amazon E-Commerce Power BI Dashboard](Screenshot%202026-08-13%20180324.png)
+
 ## 📌 Key KPIs
 
 - 💰 **Total Revenue:** ₹92M
